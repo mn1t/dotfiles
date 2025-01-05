@@ -1,0 +1,9 @@
+[font]
+size = 8
+normal.family = "JetBrainsMono Nerd Font"
+
+[cursor]
+style = { shape = "beam", blinking = "Always" } 
+blink_interval = 200
+thickness = 0.1
+unfocused_hollow = false
